@@ -13,7 +13,7 @@
 								<v-card-text class="px-0">
 									<div class="top_box" style="font-size: 22px;line-height: 30px;">
 										<span>
-											<img class="img-height" src="static/images/_gmail.png"/>
+											<img class="img-height" src="/static/images/_gmail.png"/>
 										</span>
 										<p class="black--text p-signup" subheading>SIGN UP FOR OUR </p>
 										<p class="black--text p-new" subheading>NEWSLETTTER </p>
