@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'inknutAntiqua';
+    src: url('fonts/InknutAntiqua-Regular.ttf');
+  }
+  .v-btn__content,h3{
+    font-family: inknutAntiqua;
+  }
+  .legacyBlack {
+    background: #231f20;
+    font-size: 13px;
+    text-align: justify;
+    padding: 6em 1em;    
+}
+img,.v-carousel, .carousel-controls-bg {
+  max-width: 100%;
+  height: auto;      
+}
+
+.v-carousel__controls{
+  background: transparent !important;
+}
+
+.v-carousel{
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important;
+  margin-left: -1px;
+}
